@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">얼굴 분석</string>
+    <string name="btn_get_text">사진 가져오기</string>
+    <string name="btn_analyze_text">분석하기</string>
+    <string name="edit_url_hint">사진의 URL을 입력하세요</string>
+</resources>
